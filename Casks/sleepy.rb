@@ -25,7 +25,7 @@ cask "sleepy" do
   end
 
   name "sleepy"
-  desc "Evolutionary code optimization — point sleepy at a benchmarked codebase, get a faster version"
+  desc "Client tooling for the sleepy.run evolutionary code optimization service"
   homepage "https://github.com/fugue-labs/sleepy-releases"
 
   livecheck do
